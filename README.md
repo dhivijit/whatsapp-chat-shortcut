@@ -4,7 +4,7 @@ This shortcut lets you create a WhatsApp chat with unknown numbers without savin
 This can be best used if you want to immediately message anyone and only temporarily.
 This shortcut can also be used for messaging people even if you have them in your contacts.
 
-> You can save the shortcut to your device using the file on the [releases](https://github.com/dhivijit/whatsapp-chat-shortcut/releases/tag/main) page or via the [iCloud link](https://www.icloud.com/shortcuts/72d81b778b73485ab54e65825ef06bba), I suggest to save the shortcut using the file.
+> You can save the shortcut to your device using the file on the [releases](https://github.com/dhivijit/whatsapp-chat-shortcut/releases/tag/main) page or via the [iCloud link](https://www.icloud.com/shortcuts/500bef1cf0e84424aaac2ebe1f4df9d8), I suggest to save the shortcut using the file.
 > 
 > You require iOS 15 or greater to add the shortcut using the file.
  
